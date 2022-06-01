@@ -425,7 +425,7 @@ fieldset[disabled] .btn-default:hover {
   padding: 15px; }
 
 .coming-soon {
-  background: url(../images/background-bg-07.jpg) no-repeat center center;
+  background: url(../images/background-bg-07.webp) no-repeat center center;
   background-size: cover; }
 
 .countdown-page {
@@ -1164,7 +1164,7 @@ header:before {
 
 /*AlBUM SINGLE*/
 .album_single {
-  background: url("../images/background-bg-05.jpg") no-repeat center;
+  background: url("../images/background-bg-05.webp") no-repeat center;
   background-size: cover; }
 
 .album_playlist_single {
@@ -1444,7 +1444,7 @@ header:before {
    10. MEDIA
    ========================================================================== */
 .our-media {
-  background: url(../images/background-bg-05.jpg) no-repeat;
+  background: url(../images/background-bg-05.webp) no-repeat;
   background-size: cover;
   background-attachment: fixed; }
   @media (max-width: 767px) {
@@ -1882,7 +1882,7 @@ textarea.form-comments {
    14. FOOTER
    ========================================================================== */
 footer {
-  background: url(../images/background-bg-07.jpg) no-repeat;
+  background: url(../images/background-bg-07.webp) no-repeat;
   background-size: cover;
   background-attachment: fixed; }
 
