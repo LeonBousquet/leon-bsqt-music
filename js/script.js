@@ -100,21 +100,21 @@ $(function() {
             jPlayer: "#jquery_jplayer_1",
             cssSelectorAncestor: "#jp_container_1"
         }, [{
-            title: "LONE STAR STATE ⭐",
+            title: "Breathin'",
             artist: "Leon Bousquet",
-            mp3: "songs/mp3/LONE-STAR-STATE.mp3",
-            oga: "songs/ogg/LONE-STAR-STATE.ogg"
+            mp3: "songs/mp3/Breathin.mp3",
+            oga: "songs/ogg/Breathin.ogg"
         }, {
             title: "W.O.L.F",
             artist: "Leon Bousquet",
             mp3: "songs/mp3/FURY.mp3",
             oga: "songs/ogg/FURY.ogg"
         }, {
-            title: "Breathin'",
+            title: "LONE STAR STATE ⭐",
             artist: "Leon Bousquet",
-            mp3: "songs/mp3/Breathin.mp3",
-            oga: "songs/ogg/Breathin.ogg"
-        }], {
+            mp3: "songs/mp3/LONE-STAR-STATE.mp3",
+            oga: "songs/ogg/LONE-STAR-STATE.ogg"
+        } ], {
             swfPath: "js/plugins",
             supplied: "oga, mp3",
             wmode: "window",

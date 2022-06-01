@@ -734,7 +734,7 @@ fieldset[disabled] .btn-default:hover {
    2. HEADER
    ========================================================================== */
 .slider-bg {
-  background: url(../images/slider_01.jpg) no-repeat;
+  background: url(../images/slider_01.webp) no-repeat;
   background-size: cover;
   background-attachment: fixed; }
   @media (max-width: 767px) {
