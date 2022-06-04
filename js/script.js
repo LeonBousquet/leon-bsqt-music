@@ -90,15 +90,15 @@ $(function() {
             jPlayer: "#jquery_jplayer_1",
             cssSelectorAncestor: "#jp_container_1"
         }, [{
-            title: "Breathin'",
-            artist: "Leon Bousquet",
-            mp3: "songs/mp3/Breathin.mp3",
-            oga: "songs/ogg/Breathin.ogg"
-        }, {
             title: "W.O.L.F",
             artist: "Leon Bousquet",
             mp3: "songs/mp3/FURY.mp3",
             oga: "songs/ogg/FURY.ogg"
+        }, {
+            title: "Breathin'",
+            artist: "Leon Bousquet",
+            mp3: "songs/mp3/Breathin.mp3",
+            oga: "songs/ogg/Breathin.ogg"
         }, {
             title: "LONE STAR STATE ⭐",
             artist: "Leon Bousquet",
